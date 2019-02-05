@@ -1,3 +1,5 @@
+Borrowed file modifying container for own use.
+
 ## Changelog of the Docker headless VNC images
 
 ### Version 1.4.0:
